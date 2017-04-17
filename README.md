@@ -42,6 +42,7 @@ array(), // Fields to disable
 "" // To disable the form set "disabled"
 );
 ```
+#### Let's see the live demo : [demo example-basic.php](http://mandien.hd.free.fr/prod/easymel/example-basic.php)
 
 #### You can get the full example file here : [example-basic.php](https://github.com/mandienk/easymel/blob/master/example-basic.php)
 
