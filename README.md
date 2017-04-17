@@ -43,6 +43,6 @@ array(), // Fields to disable
 );
 ```
 
-#### You can get the full example file here : https://github.com/mandienk/easymel/blob/master/example-basic.php
+#### You can get the full example file here : [example-basic.php](https://github.com/mandienk/easymel/blob/master/example-basic.php)
 
-#### Please give me you feedback to <m.kakez@gmail.com>
+#### Please give me you feedback at <m.kakez@gmail.com>
