@@ -10,8 +10,10 @@ This class allows the generation of an HTML form from a database table.
 #### Let's see how it works with a simple example :
 
 1. First we need to include necessary class
-> require_once 'form/EasyMelFormGenerator.class.php';
-> require_once 'database/Database.class.php';
+
+<addr> require_once 'form/EasyMelFormGenerator.class.php';
+<addr> require_once 'database/Database.class.php';
+
 
 2. Before creating our form we can get data to fill the form with
 > $db = new Database ('test', 'user', 'password', 'localhost'); // TODO : Implement singleton
